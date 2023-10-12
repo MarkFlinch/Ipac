@@ -21,7 +21,7 @@
 :root {
   --color-default: #0A0908;
   --color-primary: #22333B;
-  --color-secondary: #5E503F;
+  --color-secondary: #0010A2;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #FB8500;
+  color: #0010A2;
   text-decoration: none;
 }
 
@@ -180,7 +180,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #FB8500;
+  background: #0010A2;
   color: #fff;
 }
 
@@ -318,7 +318,7 @@ section {
 }
 
 .header .logo h1 span {
-  color: #FB8500;
+  color: #0010A2;
 }
 
 .sticked-header-offset {
@@ -400,7 +400,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #FB8500;
+    color: #0010A2;
   }
 
   .navbar .dropdown ul {
@@ -650,7 +650,7 @@ section {
   font-size: 20px;
   left: 0;
   top: -3px;
-  color: #FFA033;
+  color: #0010A2;
 }
 
 .about .content p:last-child {
@@ -996,11 +996,11 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #FFA033;
+  background: #0010A2;
 }
 
 .services .service-item:hover h3 {
-  border-color: #FFA033;
+  border-color: #0010A2;
 }
 
 /*--------------------------------------------------------------
@@ -1044,7 +1044,7 @@ section {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: #0010A2;
   margin: 0 1px;
 }
 
@@ -1721,7 +1721,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #FB8500;
+  background-color: #0010A2;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1878,7 +1878,7 @@ section {
 }
 
 .hero :nth-last-child(1){
-  color: #FB8500;
+  color: #0010A2;
 }
 .hero span{
   color: var(--color-primary);
@@ -1912,13 +1912,13 @@ section {
   border-radius: 50px;
   transition: 0.3s;
   color: #fff;
-  background: #FFA033;
+  background: #0010A2;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
   border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .hero .btn-get-started:hover {
-  background: #FB8500;
+  background: #0010A2;
 }
 
 .hero .btn-watch-video {
